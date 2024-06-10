@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_assignment",
+  "version": "1.0.1",
+  "description": "node js assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "pappu kumar",
+  "license": "ISC"
+}
